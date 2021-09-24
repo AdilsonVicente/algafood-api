@@ -1,0 +1,7 @@
+{
+	"nome": "Boi Brasa",
+	"taxaFrete": 12,
+	"cozinha": {
+		"id": 200
+	}
+}
